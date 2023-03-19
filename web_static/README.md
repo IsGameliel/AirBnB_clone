@@ -11,4 +11,9 @@ https://isgameliel.github.io/AirBnB_clone/web_static/5-index.html<br>
 https://isgameliel.github.io/AirBnB_clone/web_static/6-index.html<br>
 https://isgameliel.github.io/AirBnB_clone/web_static/7-index.html<br>
 https://isgameliel.github.io/AirBnB_clone/web_static/8-index.html<br>
+https://isgameliel.github.io/AirBnB_clone/web_static/100-index.html<br>
+https://isgameliel.github.io/AirBnB_clone/web_static/101-index.html<br>
+https://isgameliel.github.io/AirBnB_clone/web_static/102-index.html<br>
+https://isgameliel.github.io/AirBnB_clone/web_static/103-index.html<br>
+
 
