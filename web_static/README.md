@@ -2,3 +2,13 @@
 # 0x01. AirBnB clone - Web static
 This directory is about web with style in css
 ### about links for view web-sites:
+https://isgameliel.github.io/AirBnB_clone/web_static/0-index.html
+https://isgameliel.github.io/AirBnB_clone/web_static/1-index.html
+https://isgameliel.github.io/AirBnB_clone/web_static/2-index.html
+https://isgameliel.github.io/AirBnB_clone/web_static/3-index.html
+https://isgameliel.github.io/AirBnB_clone/web_static/4-index.html
+https://isgameliel.github.io/AirBnB_clone/web_static/5-index.html
+https://isgameliel.github.io/AirBnB_clone/web_static/6-index.html
+https://isgameliel.github.io/AirBnB_clone/web_static/7-index.html
+https://isgameliel.github.io/AirBnB_clone/web_static/8-index.html
+
